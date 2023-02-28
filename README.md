@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardillazanahoria
-- 👀 I’m interested in Data Sciencie and testing software
-- 🌱 I’m currently learning to code and tools and basics on Data Sciencie and Testing
+- 👀 I’m interested in Data Sciencie and Software Testing 
+- 🌱 I am currently learning about coding, as well as the basics of data science and testing tools.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. lizrcaballero@gmail.com
 
